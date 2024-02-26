@@ -1,0 +1,20 @@
+.card {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .card-header {
+    border-bottom: none;
+  }
+  
+  .card-footer {
+    background-color: #f8f9fa;
+  }
+  
+  .color-box {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #ced4da;
+    margin: 0 auto;
+  }
+  
